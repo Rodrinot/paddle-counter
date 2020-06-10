@@ -1,0 +1,10 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Primary theme color of the app (sets background color of app bar) -->
+        <!-->item name="colorPrimary">#4cd3c2</item>-->
+        <item name="colorPrimary">#1FB25F</item>
+        <!-- Background color of buttons in the app -->
+        <item name="colorButtonNormal">#3CD184</item>
+    </style>
+</resources>
